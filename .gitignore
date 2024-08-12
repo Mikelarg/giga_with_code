@@ -1,0 +1,5 @@
+.venv
+.idea
+.ruff_cache
+*/.env
+streamlit_demo/app/.env
